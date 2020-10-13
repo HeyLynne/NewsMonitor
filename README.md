@@ -13,3 +13,4 @@ scrapy crawl eventspider -a keyword=关键字
 scrapy crawl bangdanspider
 ```
 The news will be stored under "news" file folder.
+This project was based on (EventMonitor)[https://github.com/liuhuanyong/EventMonitor]
